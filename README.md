@@ -13,3 +13,8 @@ Repository ini dibuat untuk memenuhi Tugas 1 Pertemuan 9 mata kuliah Standarisas
 - Memahami alur kerja dasar Git (`init`, `add`, `commit`, dan `log`).
 - Menerapkan standar penulisan commit message (Conventional Commits).
 - Menggunakan `.gitignore` untuk mengecualikan file sementara dan folder `node_modules/`.
+
+## Riwayat Pengembangan
+1. Membuat README awal dan mencantumkan identitas mahasiswa.
+2. Menambahkan aturan `.gitignore`.
+3. Menambahkan tujuan dan riwayat pengembangan proyek.
